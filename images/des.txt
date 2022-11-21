@@ -1,0 +1,5 @@
+Responsible for overall design and implementation of defense architect by prioritizing defensibility principles. Develop policies to secure user accounts and authentication. Also work with intel analyst and IR lead to monitor system.
+
+Conducts analysis on potential threats, informing the team of common adversaries the organization may face. Works closely with the IR and Security Engineer to ensure most reliable defense mechanism against attackers.
+
+Our team is tasked to provide uninterrupted emergency services to the West Point area. We are responsible for facilitating connection between such organizations to include Fire Department, Law Enforcement, Emergency Medical Services, National Guard, Disaster Relief, and other such services. In practice, the Emergency Services team provides an array of prevention, preparedness, response, and recovery services for the mundane and in the case of major incidences.  The most important aim is availability for our clients.
